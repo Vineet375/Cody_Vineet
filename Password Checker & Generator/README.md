@@ -23,8 +23,8 @@ The final program offers:
 
 ## 📁 Files Included
 
-- `Task2.java`: Password Strength Checker (Standalone)
-- `Task4.java`: Random Password Generator (Standalone)
+- `Password_checker.java`: Password Strength Checker (Standalone)
+- `Password_generator.java`: Random Password Generator (Standalone)
 - `Password_Check_and_Generate.java`: Combined project with both features
 
 ---
